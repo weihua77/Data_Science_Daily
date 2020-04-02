@@ -1,0 +1,1 @@
+Hands-On ML with Scikit-Learn, Keras, and TensorFlow 2019 by Aurélien Géron
