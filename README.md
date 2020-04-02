@@ -1,4 +1,7 @@
 # Data Science Daily
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/weihua77/Data_Science_Daily/master)
+
 ## Learning through Examples, not through Basics (yet)
 You probably feel the same way as I do that we learn new things much faster through (good) examples, not definitions. I've seen myself countless times when learning new things, getting painfully stuck on basics for so long that when I finally finished I've already forgetten what I set out to accomplish. This is not a good experience of learning. I came to believe that with carefully chosen examples, we can bypass or at least delay the necessity and pain of learning the basics. Once we see the cool results we can achieve in the examples, we are more motivated to go back and consolidate the required basics. And if the results are not interesting to you, you simply move on without bothering to touch the basics. <br>
 
