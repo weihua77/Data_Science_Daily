@@ -1,0 +1,9 @@
+The GOAL of Data Wrangling is to transform the data into a form that is more *suitable* for further **analysis and modeling**. This goal will be made clear in all the wrangling operations in the notebooks here in this folder.
+
+As the file NAMES suggest, we perform a series of well-defined operations to whip the raw data into shape for further analysis. The notebooks in this folder consists of excerpts from Wes McKinney's "Python for Data Analysis" 2nd Edition Chapter 6 to 14,  my personal work, as well as other sources such as Youtube Data Science channels and tutorials. I chose these contents because in my opinion they are the most crucial and relevant techniques. I strive to provide clear explanations and enriched examples and notes to illustrate important points since I myself refer to them from time to time. If you find some of them interesting and useful, you can pursuit further to understand the basics under the hood. I will also provide external references when necessary.
+
+I am going to use Python PANDAS as the main workhorse. It not only provides efficient data structures and comprehensive data manipulation functionalities, but also interacts seamlessly with numerical computing libaries like Numpy and Scipy, data visualization libraries such as Matplotlib and Seaborn, as well as Analytics and Machine Learning libraries like Statsmodels and Sci-kit Learn. 
+
+I put the content of Data VISUALIZATION into the folder of Data Analysis, since it integrates with others better therein. Though I do want to mention that the method chaining in data wrangling can work seamlessly with data visualization, creating a smooth data exploration experience.
+
+The contents covered here is by no means comprehensive, but relatively COMPLETE for the purpose of showing you the ropes. I am confident that mastering these contents through repeated practice will make you feel comfortable with daily Data-Wrangling tasks.
